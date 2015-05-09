@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Plugin Slider
-Description: Based Plugin Structure
+Plugin Name: WP PSlider
+Description: This particular plugin has the ability to group, manage and upload mulitple image.
 Version: 1.0.0
 Author: Plonta Creative
-Author URI: http://plontacreative.com/
+Author URI: http://plontacreative.com/wp-plugins
 */
 
 error_reporting(E_ALL);
