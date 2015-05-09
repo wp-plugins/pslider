@@ -2,7 +2,7 @@
 /*
 Plugin Name: Plugin Slider
 Description: Based Plugin Structure
-Version: 1.0
+Version: 1.0.0
 Author: Plonta Creative
 Author URI: http://plontacreative.com/
 */
