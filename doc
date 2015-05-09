@@ -1,0 +1,24 @@
+Documentation / Manual:
+
+
+I. Models
+
+	1. models are located in the models/ folder
+	2. model file must be named using this format: <model_name>_model.php
+		-- replace <model_name> to your model, example: person_model.php
+	3. models must extend the PL_BaseModel
+
+II. Controllers
+	
+	1. controllers are located in the controllers/ folder
+	2. controller file  must be named using this format: <Controller_name>.php
+		-- replace <Controller_name> to your Controller name, example: Person.php
+	3. controllers must extend the PL_Controller
+
+
+III. Views
+
+	1. views are located in the views/ folder
+	2. you can name your view file to anything but must be inside a folder to whatever the name of your controller is, example: person/index.php implying that your
+		it is located in the views/person/index.php
+
