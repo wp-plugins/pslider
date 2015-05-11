@@ -12,9 +12,9 @@ This particular plugin has the ability to (group, manage) and upload multiple im
 
 == Description ==
 
-Powered by: WP MVC framework
 This particular plugin has the ability to (group, manage) and upload multiple images.
 every images generate manage section page.
+Powered by: WP MVC framework
 
 A few notes about the sections above:
 
