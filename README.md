@@ -1,4 +1,5 @@
 === Plugin Name ===
+Contributors: charly23
 Donate link: http://example.com/
 Tags: comments, spam
 Requires at least: 3.0.1
