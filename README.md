@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: charly23
-Donate link: http://example.com/
+Donate link: http://plontacreative.com/wp-plugins/
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
