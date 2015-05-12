@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: charly23
-Donate link: https://www.paypal.com/cgi-bin/webscr?business=edjeencapillanes@gmail.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=edjeencapillanes@gmail.com
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
