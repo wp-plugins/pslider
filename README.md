@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: charly23
-Donate link: http://plontacreative.com/wp-plugins/
+Donate link: https://www.paypal.com/cgi-bin/webscr?business=edjeencapillanes@gmail.com&amount=$10
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
